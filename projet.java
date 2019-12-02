@@ -1,4 +1,4 @@
-class Test {
+class Projet {
 
   private int var;
 
